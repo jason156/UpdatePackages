@@ -47,7 +47,7 @@
     }
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "^1.6.3",
     "grunt-cli": "^0.1.13",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-concat": "^0.4.0",
@@ -63,8 +63,8 @@
     "grunt-jekyll": "^0.4.2",
     "grunt-sass": "^1.0.0",
     "grunt-saucelabs": "^9.0.0",
-    "node-sass": "^4.5.3",
-    "request": "<=2.81.0",
+    "node-sass": "^9.0.0",
+    "request": "<=2.89.0",
     "shrinkwrap": "^0.4.0"
   },
   "dependencies": {
